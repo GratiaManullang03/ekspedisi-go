@@ -1,0 +1,23 @@
+# Binary dan cache Golang
+/bin/
+/pkg/
+*.exe
+*.out
+*.test
+*.a
+*.o
+
+# File konfigurasi dan environment
+.env
+*.env
+config.yaml
+config.json
+
+# Direktori vendor jika pakai Go Modules
+/vendor/
+
+# File editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
